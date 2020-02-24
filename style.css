@@ -1,7 +1,35 @@
+body{
+    background-color: #dddddd;
+}
+a{
+    text-decoration: none;
+}
 .mainHeader{
-    color:greenyellow;
+    color:black;
     text-align: center;
     width: 100%;
-    margin-top: 200px;
-    border: solid black;
+    margin-top: 100px;
+    border:solid #dddddd ;
+    border-radius: 24px;
+    background-image: radial-gradient(circle,white,#dddddd);
+}
+.suggestionBtn{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+    border:solid #dddddd ;
+    border-radius: 24px;
+    background-image: radial-gradient(circle,white,#dddddd);
+}
+
+
+.goBackBtn{
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    border:solid #dddddd ;
+    border-radius: 24px;
+    background-image: radial-gradient(circle,white,#dddddd);
+
+
 }
