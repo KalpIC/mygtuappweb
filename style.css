@@ -8,20 +8,20 @@ a{
     color:black;
     text-align: center;
     width: 100%;
-    margin-top: 100px;
+    margin-top: 50px;
     border:solid #dddddd ;
     border-radius: 24px;
     background-image: radial-gradient(circle,white,#dddddd);
 }
 .suggestionBtn{
-    margin-top: 100px;
+    margin-top: 70px;
     width: 100%;
     text-align: center;
     border:solid #dddddd ;
     border-radius: 24px;
     background-image: radial-gradient(circle,white,#dddddd);
 }
-.suggestionBtn1{
+.coronaBtn1{
     margin-top: 10px;
     width: 100%;
     text-align: center;
@@ -29,8 +29,17 @@ a{
     background-image: radial-gradient(circle,white,#dddddd);
     padding: 5px;
 }
+.coronaBtn{
+    margin-top: 70px;
+    color: #123456;
+    width: 100%;
+    text-align: center;
+    border-radius: 24px;
+    background-image: radial-gradient(circle,white,#dddddd);
+    padding: 5px;
+}
 .contactGTU{
-    margin-top: 100px;
+    margin-top: 70px;
     margin-bottom: 50px;
     width: 100%;
     text-align: center;
